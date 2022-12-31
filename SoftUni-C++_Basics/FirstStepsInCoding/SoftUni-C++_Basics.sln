@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SoftUni-C++_Basics", "SoftUni-C++_Basics\SoftUni-C++_Basics.vcxproj", "{0287EADD-25E0-4DB3-8EA4-714DA3FB2499}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0287EADD-25E0-4DB3-8EA4-714DA3FB2499}.Debug|x64.ActiveCfg = Debug|x64
+		{0287EADD-25E0-4DB3-8EA4-714DA3FB2499}.Debug|x64.Build.0 = Debug|x64
+		{0287EADD-25E0-4DB3-8EA4-714DA3FB2499}.Debug|x86.ActiveCfg = Debug|Win32
+		{0287EADD-25E0-4DB3-8EA4-714DA3FB2499}.Debug|x86.Build.0 = Debug|Win32
+		{0287EADD-25E0-4DB3-8EA4-714DA3FB2499}.Release|x64.ActiveCfg = Release|x64
+		{0287EADD-25E0-4DB3-8EA4-714DA3FB2499}.Release|x64.Build.0 = Release|x64
+		{0287EADD-25E0-4DB3-8EA4-714DA3FB2499}.Release|x86.ActiveCfg = Release|Win32
+		{0287EADD-25E0-4DB3-8EA4-714DA3FB2499}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C1504B9-5998-4585-8B15-34A50E3E9B38}
+	EndGlobalSection
+EndGlobal
