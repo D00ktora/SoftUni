@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "18a0cd37-a815-4e44-8da7-013b26c2f92d": {
+      "ProjectGuid": "18a0cd37-a815-4e44-8da7-013b26c2f92d",
+      "DisplayName": "01. Letters",
+      "ColorIndex": 0
+    },
+    "a4940232-137a-4fa7-9026-68c1df28b0c6": {
+      "ProjectGuid": "a4940232-137a-4fa7-9026-68c1df28b0c6",
+      "DisplayName": "02. Rust",
+      "ColorIndex": 1
+    },
+    "0c9dcb15-2dcb-4f5c-9b29-62d70ce050fd": {
+      "ProjectGuid": "0c9dcb15-2dcb-4f5c-9b29-62d70ce050fd",
+      "DisplayName": "03. Matching Locations",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
